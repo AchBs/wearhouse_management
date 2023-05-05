@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "302781623028",
+    "project_id": "wearhouse-kamal",
+    "storage_bucket": "wearhouse-kamal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302781623028:android:ae8eb27083db0f3dc14ca1",
+        "android_client_info": {
+          "package_name": "com.example.wearhouse_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302781623028-1qd641154op0oja5h0sihrrdjpi3ig8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3WluUUe_yO7UHRPl2dAsd82KgMZVlyBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302781623028-1qd641154op0oja5h0sihrrdjpi3ig8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
