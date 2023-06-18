@@ -4,6 +4,7 @@ import 'package:wearhouse_app/screens/stock.dart';
 import 'package:wearhouse_app/screens/receive.dart';
 import 'package:wearhouse_app/screens/Shipment.dart';
 import 'package:wearhouse_app/screens/historique.dart';
+import 'package:wearhouse_app/screens/invoice.dart';
 
 class DashboardScreen extends StatelessWidget {
   @override
@@ -67,7 +68,7 @@ class DashboardScreen extends StatelessWidget {
           case 'Shipment':
             Navigator.push(
               context,
-              MaterialPageRoute(builder: (context) => ShipmentScreen()),
+              MaterialPageRoute(builder: (context) => InvoiceScreen()),
             );
             break;
           case 'Receive':
